@@ -1,0 +1,19 @@
+{
+  "name": "@rzumstein/bitbucket-pipeline-watcher",
+  "version": "1.0.0",
+  "description": "Displays notifications for Bitbucket pipeline actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzumstein/bitbucket-pipeline-watcher.git"
+  },
+  "author": "Ryan Zumstein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rzumstein/bitbucket-pipeline-watcher/issues"
+  },
+  "homepage": "https://github.com/rzumstein/bitbucket-pipeline-watcher#readme"
+}
