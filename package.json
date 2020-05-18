@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/rzumstein/bitbucket-pipeline-watcher#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
+    "prompts": "^2.3.2",
     "selenium-webdriver": "^4.0.0-alpha.7"
   }
 }
